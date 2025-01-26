@@ -7,6 +7,7 @@ Indie Developer
 * 🌍  I'm based in Turkiye, Antalya
 * 🖥️  See my portfolio at [Savasturkoglu.com](http://savasturkoglu.com/)
 * 🧠  I'm learning Quant trading
+* I'm developing  beecal.tr currently
 
 <a href="https://www.twitter.com/savas_turkoglu_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/savas_turkoglu_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a"
