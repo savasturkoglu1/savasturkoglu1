@@ -10,7 +10,7 @@ Indie Developer
 * I'm developing  beecal.tr currently
 
 <a href="https://www.twitter.com/savas_turkoglu_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/savas_turkoglu_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a"
+src="https://img.shields.io/twitter/follow/savash_tr?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a"
 /></a>
 
 ### Skills
