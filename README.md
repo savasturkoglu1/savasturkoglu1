@@ -5,7 +5,7 @@ Indie Developer
 --------------
 
 * 🌍  I'm based in Turkiye, Antalya
-* 🖥️  See my portfolio at [Savasturkoglu.com](http://savasturkoglu.com/)
+* 🖥️  See my portfolio at [likyapix.com](http://likyapix.com/)
 * 🧠  I'm learning Quant trading
 * I'm developing  beecal.tr currently
 
